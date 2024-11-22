@@ -1,0 +1,2 @@
+My name is Shahzad. I am a beginner in C programming and skilled in web development.  
+I enjoy learning new tools and technologies like VS Code and GitHub.
