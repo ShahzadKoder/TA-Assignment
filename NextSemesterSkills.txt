@@ -1,0 +1,3 @@
+1. Advanced C programming
+2. Frontend frameworks (React.js)
+3. Database management (SQL)
